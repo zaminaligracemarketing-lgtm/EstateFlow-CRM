@@ -1,0 +1,6 @@
+{
+  "name": "EstateFlow CRM",
+  "description": "Comprehensive Mobile Real Estate CRM with visual pipeline, property photo AI scanner, multi-turn AI deal advisor, and Gemini TTS audio briefs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
